@@ -1,0 +1,11 @@
+n01443537 butterfly
+n77777777 carpet
+n01484850 cat
+n01491361 chicken
+n01494475 cow
+n01443537 dog
+n01484850 elephant
+n01491361 horse
+n01494475 sequirrel
+n01443537 sheep
+n01484850 spider

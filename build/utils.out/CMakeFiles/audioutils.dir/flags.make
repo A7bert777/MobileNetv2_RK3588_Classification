@@ -6,5 +6,5 @@ C_FLAGS =
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/firefly/mobilenet_github/include -I/home/firefly/mobilenet_github/utils -I/home/firefly/mobilenet_github/3rdparty/libsndfile/include 
+C_INCLUDES = -I/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/include -I/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/utils -I/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/3rdparty/libsndfile/include 
 

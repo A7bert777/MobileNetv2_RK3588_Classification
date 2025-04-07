@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/firefly/mobilenet_github/utils/file_utils.c
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/utils/file_utils.c
 stdio.h
 -
 stdlib.h

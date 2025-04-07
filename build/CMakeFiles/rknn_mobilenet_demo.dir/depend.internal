@@ -3,11 +3,11 @@
 
 CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.o
  ../include/mobilenet.h
- ../rknn_lib/librknn_api/include/rknn_api.h
+ ../include/rknn_api.h
  ../utils/common.h
  ../utils/file_utils.h
  ../utils/image_utils.h
- /home/firefly/mobilenet_github/src/main.cc
+ /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/main.cc
  /usr/include/opencv4/opencv2/calib3d.hpp
  /usr/include/opencv4/opencv2/core.hpp
  /usr/include/opencv4/opencv2/core/affine.hpp
@@ -138,11 +138,11 @@ CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.o
  /usr/include/opencv4/opencv2/viz/widgets.hpp
 CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.o
  ../include/mobilenet.h
- ../rknn_lib/librknn_api/include/rknn_api.h
+ ../include/rknn_api.h
  ../utils/common.h
  ../utils/file_utils.h
  ../utils/image_utils.h
- /home/firefly/mobilenet_github/src/mobilenet.cc
+ /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/mobilenet.cc
  /usr/include/opencv4/opencv2/calib3d.hpp
  /usr/include/opencv4/opencv2/core.hpp
  /usr/include/opencv4/opencv2/core/affine.hpp

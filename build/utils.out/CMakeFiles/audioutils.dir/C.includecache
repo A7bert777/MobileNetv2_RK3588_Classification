@@ -14,7 +14,7 @@ stdint.h
 sys/types.h
 -
 
-/home/firefly/mobilenet_github/utils/audio_utils.c
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/utils/audio_utils.c
 stdio.h
 -
 stdlib.h
@@ -22,7 +22,7 @@ stdlib.h
 sndfile.h
 -
 audio_utils.h
-/home/firefly/mobilenet_github/utils/audio_utils.h
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/utils/audio_utils.h
 
-/home/firefly/mobilenet_github/utils/audio_utils.h
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/utils/audio_utils.h
 

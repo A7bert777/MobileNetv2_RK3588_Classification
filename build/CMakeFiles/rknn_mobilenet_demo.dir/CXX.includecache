@@ -12,7 +12,7 @@ rknn_api.h
 common.h
 ../include/common.h
 
-../rknn_lib/librknn_api/include/rknn_api.h
+../include/rknn_api.h
 stdint.h
 -
 
@@ -24,7 +24,7 @@ stdint.h
 common.h
 ../utils/common.h
 
-/home/firefly/mobilenet_github/src/main.cc
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/main.cc
 stdint.h
 -
 stdio.h
@@ -38,11 +38,11 @@ sys/stat.h
 dirent.h
 -
 mobilenet.h
-/home/firefly/mobilenet_github/src/mobilenet.h
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/mobilenet.h
 image_utils.h
-/home/firefly/mobilenet_github/src/image_utils.h
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/image_utils.h
 file_utils.h
-/home/firefly/mobilenet_github/src/file_utils.h
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/file_utils.h
 iostream
 -
 vector
@@ -54,7 +54,7 @@ chrono
 opencv2/opencv.hpp
 -
 
-/home/firefly/mobilenet_github/src/mobilenet.cc
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/mobilenet.cc
 stdio.h
 -
 stdlib.h
@@ -64,13 +64,13 @@ string.h
 math.h
 -
 mobilenet.h
-/home/firefly/mobilenet_github/src/mobilenet.h
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/mobilenet.h
 common.h
-/home/firefly/mobilenet_github/src/common.h
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/common.h
 file_utils.h
-/home/firefly/mobilenet_github/src/file_utils.h
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/file_utils.h
 image_utils.h
-/home/firefly/mobilenet_github/src/image_utils.h
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/image_utils.h
 opencv2/opencv.hpp
 -
 cstdio

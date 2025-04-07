@@ -50,10 +50,10 @@ int main(int argc, char** argv)
     auto start = std::chrono::high_resolution_clock::now(); // 开始时间戳 
 
 
-    const char* imagenet_classes_file = "/home/firefly/mobilenet_github/model/synset.txt";  
-    const char* model_path = "/home/firefly/mobilenet_github/model/9_14MobileNetV2RKNN.rknn";  
-    const char* image_folder = "/home/firefly/mobilenet_github/inputimage"; 
-    const char* output_folder = "/home/firefly/mobilenet_github/outputimage";  
+    const char* imagenet_classes_file = "/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/model/synset.txt";  
+    const char* model_path = "/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/model/9_14MobileNetV2RKNN.rknn";  
+    const char* image_folder = "/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/inputimage"; 
+    const char* output_folder = "/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/outputimage";  
 
     int line_count;  
     char** lines = read_lines_from_file(imagenet_classes_file, &line_count);  

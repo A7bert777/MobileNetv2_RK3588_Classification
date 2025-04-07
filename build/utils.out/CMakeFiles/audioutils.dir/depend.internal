@@ -3,5 +3,5 @@
 
 utils.out/CMakeFiles/audioutils.dir/audio_utils.c.o
  ../3rdparty/libsndfile/include/sndfile.h
- /home/firefly/mobilenet_github/utils/audio_utils.c
- /home/firefly/mobilenet_github/utils/audio_utils.h
+ /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/utils/audio_utils.c
+ /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/utils/audio_utils.h

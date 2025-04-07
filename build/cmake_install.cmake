@@ -1,4 +1,4 @@
-# Install script for directory: /home/firefly/mobilenet_github
+# Install script for directory: /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,12 +44,12 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/./rknn_mobilenet_demo"
          RPATH "$ORIGIN/../lib")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/." TYPE EXECUTABLE FILES "/home/firefly/mobilenet_github/build/rknn_mobilenet_demo")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/." TYPE EXECUTABLE FILES "/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/build/rknn_mobilenet_demo")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/./rknn_mobilenet_demo" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/./rknn_mobilenet_demo")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/./rknn_mobilenet_demo"
-         OLD_RPATH "/home/firefly/mobilenet_github/rknn_lib/librknn_api/aarch64:"
+         OLD_RPATH "/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/rknn_lib/librknn_api/aarch64:"
          NEW_RPATH "$ORIGIN/../lib")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/./rknn_mobilenet_demo")
@@ -58,17 +58,17 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/model" TYPE FILE FILES "/home/firefly/mobilenet_github/../model/bell.jpg")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/model" TYPE FILE FILES "/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/../model/bell.jpg")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/model" TYPE FILE FILES "/home/firefly/mobilenet_github/../model/synset.txt")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/model" TYPE FILE FILES "/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/../model/synset.txt")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/firefly/mobilenet_github/build/3rdparty.out/cmake_install.cmake")
-  include("/home/firefly/mobilenet_github/build/utils.out/cmake_install.cmake")
+  include("/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/build/3rdparty.out/cmake_install.cmake")
+  include("/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/build/utils.out/cmake_install.cmake")
 
 endif()
 
@@ -80,5 +80,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/firefly/mobilenet_github/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

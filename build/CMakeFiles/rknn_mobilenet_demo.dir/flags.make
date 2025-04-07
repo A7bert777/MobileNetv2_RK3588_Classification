@@ -6,5 +6,5 @@ CXX_FLAGS =   -pthread
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/firefly/mobilenet_github/include -I/home/firefly/mobilenet_github/rknn_lib/librknn_api/include -I/home/firefly/mobilenet_github/3rdparty -I/home/firefly/mobilenet_github -I/home/firefly/mobilenet_github/utils -I/home/firefly/mobilenet_github/3rdparty/stb_image -I/home/firefly/mobilenet_github/3rdparty/jpeg_turbo/include -I/home/firefly/mobilenet_github/3rdparty/librga/include -isystem /usr/include/opencv4 
+CXX_INCLUDES = -I/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/include -I/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/rknn_lib/librknn_api/include -I/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/3rdparty -I/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification -I/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/utils -I/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/3rdparty/stb_image -I/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/3rdparty/jpeg_turbo/include -I/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/3rdparty/librga/include -isystem /usr/include/opencv4 
 

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/firefly/mobilenet_github
+CMAKE_SOURCE_DIR = /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/firefly/mobilenet_github/build
+CMAKE_BINARY_DIR = /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/rknn_mobilenet_demo.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/rknn_mobilenet_demo.dir/flags.make
 
 CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.o: CMakeFiles/rknn_mobilenet_demo.dir/flags.make
 CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.o: ../src/main.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/firefly/mobilenet_github/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.o -c /home/firefly/mobilenet_github/src/main.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.o -c /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/main.cc
 
 CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/firefly/mobilenet_github/src/main.cc > CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/main.cc > CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.i
 
 CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/firefly/mobilenet_github/src/main.cc -o CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/main.cc -o CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.s
 
 CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.o: CMakeFiles/rknn_mobilenet_demo.dir/flags.make
 CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.o: ../src/mobilenet.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/firefly/mobilenet_github/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.o -c /home/firefly/mobilenet_github/src/mobilenet.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.o -c /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/mobilenet.cc
 
 CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/firefly/mobilenet_github/src/mobilenet.cc > CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/mobilenet.cc > CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.i
 
 CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/firefly/mobilenet_github/src/mobilenet.cc -o CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/mobilenet.cc -o CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.s
 
 # Object files for target rknn_mobilenet_demo
 rknn_mobilenet_demo_OBJECTS = \
@@ -148,7 +148,7 @@ rknn_mobilenet_demo: /usr/lib/aarch64-linux-gnu/libopencv_photo.so.4.2.0
 rknn_mobilenet_demo: /usr/lib/aarch64-linux-gnu/libopencv_imgproc.so.4.2.0
 rknn_mobilenet_demo: /usr/lib/aarch64-linux-gnu/libopencv_core.so.4.2.0
 rknn_mobilenet_demo: CMakeFiles/rknn_mobilenet_demo.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/firefly/mobilenet_github/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable rknn_mobilenet_demo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable rknn_mobilenet_demo"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/rknn_mobilenet_demo.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -161,6 +161,6 @@ CMakeFiles/rknn_mobilenet_demo.dir/clean:
 .PHONY : CMakeFiles/rknn_mobilenet_demo.dir/clean
 
 CMakeFiles/rknn_mobilenet_demo.dir/depend:
-	cd /home/firefly/mobilenet_github/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/firefly/mobilenet_github /home/firefly/mobilenet_github /home/firefly/mobilenet_github/build /home/firefly/mobilenet_github/build /home/firefly/mobilenet_github/build/CMakeFiles/rknn_mobilenet_demo.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/build /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/build /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/build/CMakeFiles/rknn_mobilenet_demo.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/rknn_mobilenet_demo.dir/depend
 

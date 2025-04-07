@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/firefly/mobilenet_github/src/main.cc" "/home/firefly/mobilenet_github/build/CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.o"
-  "/home/firefly/mobilenet_github/src/mobilenet.cc" "/home/firefly/mobilenet_github/build/CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.o"
+  "/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/main.cc" "/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/build/CMakeFiles/rknn_mobilenet_demo.dir/src/main.cc.o"
+  "/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/src/mobilenet.cc" "/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/build/CMakeFiles/rknn_mobilenet_demo.dir/src/mobilenet.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -24,8 +24,8 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/firefly/mobilenet_github/build/utils.out/CMakeFiles/fileutils.dir/DependInfo.cmake"
-  "/home/firefly/mobilenet_github/build/utils.out/CMakeFiles/imageutils.dir/DependInfo.cmake"
+  "/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/build/utils.out/CMakeFiles/fileutils.dir/DependInfo.cmake"
+  "/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/build/utils.out/CMakeFiles/imageutils.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

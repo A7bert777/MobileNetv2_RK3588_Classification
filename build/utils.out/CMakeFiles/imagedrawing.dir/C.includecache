@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/firefly/mobilenet_github/utils/common.h
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/utils/common.h
 
-/home/firefly/mobilenet_github/utils/font.h
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/utils/font.h
 
-/home/firefly/mobilenet_github/utils/image_drawing.c
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/utils/image_drawing.c
 stdio.h
 -
 stdlib.h
@@ -20,11 +20,11 @@ string.h
 ctype.h
 -
 image_drawing.h
-/home/firefly/mobilenet_github/utils/image_drawing.h
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/utils/image_drawing.h
 font.h
-/home/firefly/mobilenet_github/utils/font.h
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/utils/font.h
 
-/home/firefly/mobilenet_github/utils/image_drawing.h
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/utils/image_drawing.h
 common.h
-/home/firefly/mobilenet_github/utils/common.h
+/home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/utils/common.h
 

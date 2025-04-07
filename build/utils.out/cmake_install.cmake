@@ -1,4 +1,4 @@
-# Install script for directory: /home/firefly/mobilenet_github/utils
+# Install script for directory: /home/firefly/GitHUb测试/MobileNetv2_RK3588_Classification/utils
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
